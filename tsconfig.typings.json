@@ -1,9 +1,9 @@
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
+{
+  "extends": "./tsconfig.json",
+  "exclude": ["**/__tests__/**", "**/__testutils__/**"],
+  "compilerOptions": {
+    "declaration": true,
+    "declarationDir": "lib",
+    "emitDeclarationOnly": true
+  }
+}

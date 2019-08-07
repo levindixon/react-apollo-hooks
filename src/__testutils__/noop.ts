@@ -1,3 +1,3 @@
-***REMOVED***
-***REMOVED***
-***REMOVED***
+export default function noop() {
+  // Noop.
+}

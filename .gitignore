@@ -1,5 +1,5 @@
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
+/es
+/node_modules
+/lib
+npm-debug.log*
+yarn-error.log*
